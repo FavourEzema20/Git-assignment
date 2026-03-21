@@ -7,3 +7,21 @@
 ## Git is an open-source, local version control system (VCS), WHILE GitHub ia a web-based cloud platform that hosts Git repositories and adds collaboration features.
 
 ## Git is installed and runs locally on your computer(offline functionality). WHILE GitHub is hosted on the web(requires an internet connection for most operations).
+
+# GitHub Alternatives:
+
+## Git Lab: It is a web-based DevSecOps platform that allows software development teams to plan, build, and ship secure code all in one application.
+
+## Bitbucket: It is a Git-based code hosting and collaboration tool designed for teams. It provides a space where a team can collaborate on code from concept to cloud, create quality code through automated testing, and confidently deploy code.
+
+## Gitea: it is a painless self-hosted all-in-one software development service that includes Git hosting, code review, team collaboration, package registry, and CI/CD. It is similar to GitHub, Bitbucket, and GItLab.
+
+# Differences between Git fetch and Git pull.
+
+## Git fetch is used to fetch all changes from the remote repository to the local repository WHILE Git pull is used to fetch all changes from the remote repository to the current working directory.
+
+## In Git fetch the repository data is updated in the .git directory WHILE In Git pull the working directory is updated directly.
+
+## In Git fetch there is no possibility of merge conflicts WHILE In Git pull merge conflicts are possible if the remote and local repositories have done changes at the same place.
+
+## In Git fetch Review of commits and changes can be done WHILE In Git pull Updates the changes to the local repository immediately.
